@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dohaaymann&label=Profile%20views&color=0e75b6&style=flat" alt="dohaaymann" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dohaa_ayman" target="blank"><img src="https://img.shields.io/twitter/follow/dohaa_ayman?logo=twitter&style=for-the-badge" alt="dohaa_ayman" /></a> </p>
+- 🌱 I’m currently learning **flutter , python**
 
-- 🌱 I’m currently learning **flutter,react nativr**
-
-- 💬 Ask me about **Android**
+- 💬 Ask me about **mobile application**
 
 - 📫 How to reach me **dohaslam3@gmail.com**
 
@@ -23,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohaaymann&show_icons=true&locale=en" alt="dohaaymann" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohaaymann&" alt="dohaaymann" /></p>
