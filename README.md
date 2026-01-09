@@ -1,22 +1,82 @@
-<h1 align="center">Hi 👋, I'm Doha aymann</h1>
-<h3 align="center">A flutter developer and AI programmer</h3>
+<h1 align="center">Hi 👋, I'm Doha Ayman</h1>
+<h3 align="center">
+Flutter Developer | Mobile App Specialist | AI-Driven Apps
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dohaaymann&label=Profile%20views&color=0e75b6&style=flat" alt="dohaaymann" /> </p>
-
-- 🌱 I’m currently learning **flutter , python , artificial intelligence**
-
-- 👨‍💻 All of my projects are available at (https://dohaaymann.github.io/#/)
-
-- 💬 Ask me about **mobile application**
-
-- 📫 How to reach me **dohaslam3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/dohaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dohaslam" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:dohaslam3@gmail.com">dohaslam3@gmail.com</a> •
+  <a href="https://dohaaymann.github.io/#/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dohaa-ayman">LinkedIn</a> •
+  <a href="https://github.com/dohaaymann">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dohaaymann&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohaaymann&show_icons=true&locale=en" alt="dohaaymann" /></p>
+---
+
+### 👩‍💻 About Me
+I am a **Flutter Developer** with hands-on experience building **scalable mobile applications** from scratch.  
+I specialize in **Flutter + Firebase + REST APIs**, with a strong foundation in **Clean Architecture, state management**, and **performance optimization**.
+
+I also have experience integrating **AI models** into mobile apps, focusing on real-world problem solving and user-centric design.
+
+---
+
+### 🚀 What I Do
+- Build **cross-platform mobile apps** using Flutter & Dart  
+- Integrate **RESTful APIs** (Dio / HTTP) with pagination & caching  
+- Implement **state management** (Bloc / Cubit / GetX / Provider)  
+- Develop **Firebase-powered apps** (Auth, Firestore, FCM)  
+- Apply **Clean Architecture & OOP principles**  
+- Optimize performance using **Flutter DevTools**  
+- Collaborate on **AI-driven features** using Python & TensorFlow  
+
+---
+
+### 🛠️ Tech Stack
+**Mobile & Frontend**
+- Flutter, Dart, Responsive UI, Localization
+- State Management: Bloc (Cubit), Provider, GetX
+
+**Backend & Services**
+- Firebase (Auth, Firestore, FCM)
+- RESTful APIs (Dio / HTTP)
+- PHP (REST APIs)
+
+**Databases**
+- Hive, SQFlite, Shared Preferences
+- MySQL, SQLite
+
+**AI & Data**
+- Python, TensorFlow
+- AI model integration into mobile apps
+
+**Tools**
+- Git & GitHub
+- Flutter DevTools
+- Figma, FlutterFlow
+
+---
+
+### 📂 Featured Projects
+🔹 **Med Supply App** – Medical E-Commerce Platform  
+🔹 **Quotopia** – Community-Driven Quote Sharing App  
+🔹 **OvyCare** – AI-Powered Women’s Health App  
+🔹 **Real-Time Chat App** – Firebase Messaging  
+
+👉 Full project details & demos:  
+🔗 **Portfolio:** https://dohaaymann.github.io/#/
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **dohaslam3@gmail.com**
+- 🎨 Behance: <a href="https://www.behance.net/dohaslam">behance.net/dohaslam</a>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dohaaymann&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
